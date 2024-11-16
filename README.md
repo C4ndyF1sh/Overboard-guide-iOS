@@ -18,7 +18,7 @@ Then SSH into your iPhone with terminal using ssh mobile@_YouriPhoneIPhere_
 
 After open the app you want to use the tool on i will use Pomelo*:
 
-Here is the command:
+**Here is the command:**
 
 
 8Gb devices: jetsamctl -l 7490 Pomelo

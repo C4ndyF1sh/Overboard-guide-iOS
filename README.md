@@ -22,11 +22,8 @@ Here is the command:
 
 
 8Gb devices: jetsamctl -l 7490 Pomelo
-
 6Gb devices: jetsamctl -l 5490 Pomelo
-
 4Gb devices: jetsamctl -l 3490 Pomelo
-
 3Gb devices: jetsamctl -l 2490 Pomelo
 
 

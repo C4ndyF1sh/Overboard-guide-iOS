@@ -30,5 +30,12 @@ After open the app you want to use the tool on i will use Pomelo*:
 3Gb devices: jetsamctl -l 2490 Pomelo
 
 
-*For Pomelo you need to spam the command even when playing the game for it to stay active.
+*For Pomelo you need to use this command, Replace 5490 with the ones recommened above for your device ram: 
+
+_while true
+do
+    jetsamctl -l 5490 Pomelo
+    sleep 1
+done_
+
 

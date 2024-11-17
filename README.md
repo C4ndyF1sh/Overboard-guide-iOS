@@ -30,7 +30,7 @@ After open the app you want to use the tool on i will use Pomelo*:
 3Gb devices: jetsamctl -l 2490 Pomelo
 
 
-*For Pomelo you need to use this command, Replace 5490 with the ones recommened above for your device ram: 
+*For Pomelo on iOS 16+ you need to use this command, Replace 5490 with the ones recommened above for your device ram: 
 
 _while true
 do

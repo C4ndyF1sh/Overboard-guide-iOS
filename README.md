@@ -28,24 +28,29 @@
 ////////////////////////////////////////////////////
 
 
+
+
+**Maximum recommended value for each device**:
+
+8GB devices: 7490
+
+6GB devices: 5490
+
+4GB devices: 3490
+
+3GB devices: 2490
+
 ------------------------------------------
 **(iOS 14 - 15):**
-
-
-8GB devices: jetsamctl -l 7490 *App Name*
-
-6GB devices: jetsamctl -l 5490 *App Name*
-
-4GB devices: jetsamctl -l 3490 *App Name*
-
-3GB devices: jetsamctl -l 2490 *App Name*
+**(Replace 5490 with the ones recommened above for your device ram)**
+jetsamctl -l 5490 *App Name*
 
 -------------------------------------------
 
 **On iOS 16+ you need to use this command, Replace 5490 with the ones recommened above for your device ram:**
 while true; do jetsamctl -l 5490 *App Name*; sleep 1; done
 
-**If this doesn´t work, try enabling swap instead:**
+**If this doesn´t work, try enabling swap instead (Replace 5490 with the ones recommened above for your device ram)**
 while true; do jetsamctl -l 5490 -M 5490 *App Name*; sleep 1; done
 
 

@@ -14,7 +14,7 @@
 
 8. Then SSH into your iPhone with terminal using ssh mobile@_YouriPhoneIPhere_
 
-9. Enter the command in the terminal (scroll down)
+9. Enter the command in the Terminal (scroll down)
 
 
 //////////////////////

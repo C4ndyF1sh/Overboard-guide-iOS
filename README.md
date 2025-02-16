@@ -1,41 +1,37 @@
 # How to use Overboard
 
-First get Bootstrap:https://github.com/roothide/Bootstrap/releases and install it then click the boostrap button. 
+1. First get Bootstrap:https://github.com/roothide/Bootstrap/releases and install it then click the boostrap button. 
 
-Then go to Sileo and search for OpenSSH install it.
+2. Then go to Sileo and search for OpenSSH install it.
 
-After go to Boostrap and enable OpenSSH and Tweak Enable.
+3. After go to Boostrap and enable OpenSSH and Tweak Enable.
 
-Then go to App List and enable the app you want to override the memory usage of.
+4. Then go to App List and enable the app you want to override the memory usage of.
 
-After that go back to Sileo and install Roothide Patcher. 
+5. After that go back to Sileo and install Roothide Patcher. 
 
-Then download this: https://github.com/TechGuy541/Overboard-guide/raw/refs/heads/main/Build%20Output.zip and import the .deb file of your need into Roothide Patcher.
+6. Then download this: https://github.com/stossy11/Overboard-guide/raw/refs/heads/main/Build%20Output.zip and import the .deb file of your need into Roothide Patcher.
 
-When its finsihed click on the Sileo button, click get and that will install the .deb file.
+7. When its finsihed click on the Sileo button, click get and that will install the .deb file.
 
-Then SSH into your iPhone with terminal using ssh mobile@_YouriPhoneIPhere_
+8. Then SSH into your iPhone with terminal using ssh mobile@_YouriPhoneIPhere_
 
-After open the app you want to use the tool on i will use Pomelo*:
+After open the app you want to use the tool on i will use*:
 
 **Here is the command:**
 
 
-8Gb devices: jetsamctl -l 7490 Pomelo
+8GB devices: jetsamctl -l 7490 Pomelo
 
-6Gb devices: jetsamctl -l 5490 Pomelo
+6GB devices: jetsamctl -l 5490 Pomelo
 
-4Gb devices: jetsamctl -l 3490 Pomelo
+4GB devices: jetsamctl -l 3490 Pomelo
 
-3Gb devices: jetsamctl -l 2490 Pomelo
+3GB devices: jetsamctl -l 2490 Pomelo
 
 
-*For Pomelo on iOS 16+ you need to use this command, Replace 5490 with the ones recommened above for your device ram: 
+*On iOS 16+ you need to use this command, Replace 5490 with the ones recommened above for your device ram:*
+`while true; do jetsamctl -l 5490 MeloNX; sleep 1; done`
 
-_while true
-do
-    jetsamctl -l 5490 Pomelo
-    sleep 1
-done_
 
 

@@ -36,7 +36,7 @@
 
 6GB devices: jetsamctl -l 5490 *App Name*
 
-4GB devices: jetsamctl -l 3490 *App Name**
+4GB devices: jetsamctl -l 3490 *App Name*
 
 3GB devices: jetsamctl -l 2490 *App Name*
 

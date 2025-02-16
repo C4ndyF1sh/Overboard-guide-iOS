@@ -39,7 +39,9 @@
 4GB devices: jetsamctl -l 3490 *App Name**
 
 3GB devices: jetsamctl -l 2490 *App Name*
+
 -------------------------------------------
+
 **On iOS 16+ you need to use this command, Replace 5490 with the ones recommened above for your device ram:**
 while true; do jetsamctl -l 5490 *App Name*; sleep 1; done
 

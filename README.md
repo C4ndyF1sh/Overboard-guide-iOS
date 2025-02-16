@@ -1,6 +1,6 @@
 # How to use Overboard
 //////////////
-**Bootstrap-Method** (iOS 14.0 - 15.x.x:
+**Bootstrap-Method** (iOS 14.0 - 16.7RC/17.0b1 - 17.0):
 1. First get Bootstrap:https://github.com/roothide/Bootstrap/releases and install it then click the boostrap button.
 2. Then go to Sileo and search for OpenSSH install it.
 3. After go to Boostrap and enable OpenSSH and Tweak Enable.
@@ -29,7 +29,7 @@
 
 
 ------------------------------------------
-**(iOS 14 - 15)**
+**(iOS 14 - 15):**
 
 
 8GB devices: jetsamctl -l 7490 *App Name*

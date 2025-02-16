@@ -41,14 +41,14 @@
 3GB devices: 2490
 
 ------------------------------------------
-**(iOS 14 - 15) (Replace 5490 with the ones recommened above for your device ram):
-**
+**(iOS 14 - 15) (Replace 5490 with the ones recommened above for your device ram):**
+
 jetsamctl -l 5490 *App Name*
 
 -------------------------------------------
 
-**On iOS 16+ you need to use this command, Replace 5490 with the ones recommened above for your device ram:
-**
+**On iOS 16+ you need to use this command, Replace 5490 with the ones recommened above for your device ram:**
+
 while true; do jetsamctl -l 5490 *App Name*; sleep 1; done
 
 **If this doesn´t work, try enabling swap instead (Replace 5490 with the ones recommened above for your device ram)**

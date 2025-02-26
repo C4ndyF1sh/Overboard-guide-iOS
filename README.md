@@ -26,10 +26,10 @@
 
 **Control Center Module Method (Dopamine/Nathanlr-only)** (Make sure MeloNX is open in the background)
 1. Download this .zip file and extract it https://github.com/C4ndyF1sh/Overboard-guide-iOS/releases/tag/requirements
-2. Share the .deb file with Sileo/Zebra and install it
+2. Share the commandmodule.deb file with Sileo/Zebra and install it
 3. Open Settings > Control Center > add "CommandModule"
-4. Open Filza
-5. Replace the **com.captinc.commandmodule.sh** file at "**/var/jb/var/mobile/Library/Preferences**"
+4. Install Filza and open it https://www.tigisoftware.com/default/?p=439
+5. Replace the **com.captinc.commandmodule.sh** file at "**/var/jb/var/mobile/Library/Preferences**" with Filza
 6. Tap on the new added Control Center Module **once**
 
 **Note**:  When tapping more than once per boot on the cc module it may reduce performance, if you did this accidently or not you can just respring through TrollStore or a other app and tap on the cc module once again after.

@@ -2,15 +2,14 @@
 (supports up to 16.7RC/17.0b1-17.0)
 1. Get Bootstrap https://github.com/roothide/Bootstrap and install it via TrollStore https://ios.cfw.guide/installing-trollstore
 2. Go to Bootstraps settings and enable Tweak Enable.
-3. Go to App List and enable app injection for MeloNX
+3. Go to App List and enable app injection for the app of your choice. 
 4. Go back to Sileo/Zebra and install Roothide Patcher.
-5. Then download this: https://github.com/stossy11/Overboard-guide/raw/refs/heads/main/Build%20Output.zip and import the .deb file of your need into Roothide Patcher.
+5. Then download this: https://github.com/C4ndyF1sh/Overboard-guide-iOS/releases/tag/requirements and import the overboard.deb file of your need into Roothide Patcher.
 6. When its finished click on the Sileo/Zebra button, click get and then wait till it’s installed
 7. Execute command (see below)
 
 # Dopamine/Nathanlr-Method
-(Dopamine supports up to 16.5(.1), while Nathanlr supports 16.5.1 - 16.6.1)
-
+(Dopamine supports up to 16.5(.1) and on arm64 devices even up to 16.6.1, while Nathanlr supports 16.5.1 - 16.6.1)
 1. Get **Dopamine** (https://ios.cfw.guide/installing-dopamine/) Or **Nathanlr** (https://ios.cfw.guide/installing-nathanlr/)
 
 2. **Download** this: https://github.com/stossy11/Overboard-guide/raw/refs/heads/main/Build%20Output.zip and import the iPhoneOS arm.deb file into Sileo/Zebra

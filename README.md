@@ -24,11 +24,11 @@
 
 **Note**: Replace value "5490" with the amount of ram you need in total (ram+physical storage) in mb, so 5.5gb = 5500 for example
 
-**Control Center Module Method (Dopamine/Nathanlr-only)** (Make sure MeloNX is open in the background)
+**Control Center Module Method (arm64e Dopamine/Nathanlr-only)** (Make sure MeloNX is open in the background)
 1. Download this .zip file and extract it https://github.com/C4ndyF1sh/Overboard-guide-iOS/releases/tag/requirements
 2. Share the commandmodule.deb file with Sileo/Zebra and install it
 3. Open Settings > Control Center > add "CommandModule"
-4. Install Filza and open it https://www.tigisoftware.com/default/?p=439
+4. Install Filza (https://www.tigisoftware.com/default/?p=439) and open it
 5. Replace the **com.captinc.commandmodule.sh** file at "**/var/jb/var/mobile/Library/Preferences**" with Filza
 6. Tap on the new added Control Center Module **once**
 

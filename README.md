@@ -1,6 +1,6 @@
 # Bootstrap-Method
 (supports up to 16.7RC/17.0b1-17.0)
-1. Get Bootstrap https://github.com/roothide/Bootstrap
+1. Get Bootstrap https://github.com/roothide/Bootstrap and install it via TrollStore https://ios.cfw.guide/installing-trollstore
 2. Go to Bootstraps settings and enable Tweak Enable.
 3. Go to App List and enable app injection for MeloNX
 4. Go back to Sileo/Zebra and install Roothide Patcher.

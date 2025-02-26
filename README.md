@@ -22,7 +22,7 @@
 1. Install NewTerm3 Beta from Sileo/Zebra
 2. Execute "while true; do jetsamctl -l 5490 -M 5490 App Name; sleep 1; done" in NewTerm3 Beta
 
-**Note**: Replace value "5490" with the amount of ram you need in total (ram+physical storage) in mb, so 5.5gb = 5500 for example
+**Note**: Replace value "5490" with the amount of ram you need in total (ram+physical storage) in mb, so 5.5gb = 5500 for example. Also, replace the text "MeloNX" with App you want to use this for.
 
 **Control Center Module Method (arm64e Dopamine/Nathanlr-only)** (Make sure the App you want to use this for is open in the background)
 1. Download this .zip file and extract it https://github.com/C4ndyF1sh/Overboard-guide-iOS/releases/tag/requirements

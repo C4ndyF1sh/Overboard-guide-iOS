@@ -32,4 +32,6 @@
 5. Replace the **com.captinc.commandmodule.sh** file at "**/var/jb/var/mobile/Library/Preferences**" with Filza
 6. Tap on the new added Control Center Module **once**
 
-**Note**:  When tapping more than once per boot on the cc module it may reduce performance, if you did this accidently or not you can just respring through TrollStore or a other app and tap on the cc module once again after.
+**Note**:
+1. Replace value "5490" in the commandmodule.sh file via Filza´s Text Editor with the amount of ram you need in total (ram+physical storage) in mb, so 5.5gb = 5500 for example
+2. When tapping more than once per boot on the cc module it may reduce performance, if you did this accidently or not you can just respring through TrollStore or a other app and tap on the cc module once again after.
